@@ -1,4 +1,4 @@
-# NOTE: The ownership of the extension has been transfered to nmanumr here is the new link (https://github.com/nmanumr/quizsliver). Also note that the installation instructions are different please read them before installing the extension.
+# NOTE: The installation instructions are different please read them before installing the extension.
 
 # Quiz Sliver
 
@@ -34,7 +34,7 @@ Now how can you install it on your PC? Below are the steps you can follow:
 Below are the steps you can follow to update the extension:
 
 1. Remove the extension from `chrome://extensions/` url
-2. Redownload the latest version from `https://github.com/itsumarfarooq/quizsliver`
+2. Redownload the latest version from `https://github.com/ali-raxa-dev/quiz-solver`
 3. Install it by following the steps described above.
 
 ## How much data we have?

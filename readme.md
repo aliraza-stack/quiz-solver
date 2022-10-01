@@ -34,7 +34,7 @@ Now how can you install it on your PC? Below are the steps you can follow:
 Below are the steps you can follow to update the extension:
 
 1. Remove the extension from `chrome://extensions/` url
-2. Redownload the latest version from `https://github.com/ali-raxa-dev/quiz-solver`
+2. Redownload the latest version from `https://github.com/aliraxa-hub/quiz-solver`
 3. Install it by following the steps described above.
 
 ## How much data we have?
